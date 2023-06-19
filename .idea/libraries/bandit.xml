@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bandit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bandit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
