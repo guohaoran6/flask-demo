@@ -1,0 +1,9 @@
+
+Lpython:S1066Q"/Merge this if statement with the enclosing one.(±Ú¦¬úÿÿÿÿ
+Hpython:S1066"/Merge this if statement with the enclosing one.(Å’‘¬
+Fpython:S1940Q")Use the opposite operator ("!=") instead.(±Ú¦¬úÿÿÿÿ
+lpython:S3776…"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(æ£æ
+Bpython:S1940")Use the opposite operator ("!=") instead.(Å’‘¬
+Apython:S108®")Either remove or fill this block of code.(ã‘Û¾
+Hpython:S108İ")Either remove or fill this block of code.(ã‘Û¾8šÉÂ1
+]python:S112‘">Replace this generic exception class with a more specific one.(Õ˜²È8šÉÂ1

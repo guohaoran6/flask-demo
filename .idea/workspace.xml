@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faf43cab-cce0-438b-bbaf-469f983ade21" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/app/requestschema/kpi.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/requestschema/kpi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/kpis_test.py" beforeDir="false" />
-    </list>
+    <list default="true" id="faf43cab-cce0-438b-bbaf-469f983ade21" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687163259216</updated>
-      <workItem from="1687163260587" duration="3576000" />
+      <workItem from="1687163260587" duration="4104000" />
     </task>
     <servers />
   </component>

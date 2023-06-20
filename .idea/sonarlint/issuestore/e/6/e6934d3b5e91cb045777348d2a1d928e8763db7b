@@ -1,0 +1,9 @@
+
+xpython:S117P"aRename this local variable "experimentModels" to match the regular expression ^[_a-z][a-z0-9_]*$.(œãäã
+qpython:S37765"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÏÓñıÿÿÿÿ
+xpython:S117|"aRename this local variable "experimentModels" to match the regular expression ^[_a-z][a-z0-9_]*$.(œãäã
+lpython:S3776l"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ğâò
+opython:S2710˜"QRename "self" to a valid class parameter name or add the missing class parameter.(‰òµ©ûÿÿÿÿ
+Bpython:S1940™")Use the opposite operator (">=") instead.(Úæ²
+jpython:S2710œ"QRename "self" to a valid class parameter name or add the missing class parameter.(ä‰ÂÒ
+jpython:S2710 "QRename "self" to a valid class parameter name or add the missing class parameter.(ÙÎ‚ş
